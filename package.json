@@ -1,10 +1,10 @@
 {
     "name": "haitany-services-frontend-fullpage_scroll",
+    "description": "haitany-services-frontend-fullpage_scroll",
     "version": "0.0.1",
     "main": "index.js",
     "author": "haitany <literallymyfault@gmail.com>",
     "license": "ISC",
-    "dependencies": {},
     "repository": {
         "type": "git",
         "url": "git+https://github.com/emptyhopes/haitany-services-frontend-fullpage_scroll.git"
